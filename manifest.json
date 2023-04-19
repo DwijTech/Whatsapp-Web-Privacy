@@ -1,0 +1,13 @@
+{
+    "name": "Whatsapp Web Privacy",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "This extension will add privacy layer to your wehatsapp web chats",
+    "action": {
+        "default_popup": "popup.html"
+        // "default_icon": "logo.png"
+    }
+//     "icons": {
+//         "128": "logo.png"
+//     }
+}
